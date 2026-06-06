@@ -62,11 +62,11 @@ The project combines **Python**, **MySQL**, and **Power BI** to create a complet
 
   * Pandas
   * NumPy
-  * PostgreSQL Connector
+  * MySQL Connector
 
 * **SQL**
 
-  * PostgreSQL
+  * MySQL
 
 * **Visualization**
 
